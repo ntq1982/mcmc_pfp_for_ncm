@@ -5,4 +5,4 @@ Requirements:
     ASE < 3.23.0
     pfp_api_client >= 1.16.1
 
-Last update: Jul 17, 2026
+Last update: Jul 30, 2026
