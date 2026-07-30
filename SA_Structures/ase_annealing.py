@@ -3,9 +3,9 @@
     for finding the most stable/unstable atomic arrangement in multi-component systems.
 
     Created on Jul 02, 2023 at Shinshu University
-    Last update: Jul 10, 2024 09:21 JST
+    Last update: Jul 30, 2026 14:10 JST
 
-    Copyright © 2023 Quang Nguyen. All rights reserved.
+    Copyright © 2023-2026 Quang Nguyen. All rights reserved.
 """
 
 import numpy as np

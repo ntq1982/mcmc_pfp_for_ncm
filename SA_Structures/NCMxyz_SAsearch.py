@@ -3,9 +3,9 @@
     The structure is used for the Multi-canonical Monte Carlo simulation.
 
     Created on Jul 31, 2024 at Shinshu University
-    Last update: Aug 05, 2024 14:02 JST
+    Last update: Jul 30, 2026 14:10 JST
 
-    Copyright © 2024 Quang Nguyen. All rights reserved.
+    Copyright © 2024-2026 Quang Nguyen. All rights reserved.
 """
 
 import os
@@ -69,7 +69,7 @@ with open(logfile, 'a') as f:
     print(f"  Total number of atoms: {len(SPC)}", file=f)
     print(f"  Number of Ni, Co, Mn atoms: {Natm_TMs[0]} {Natm_TMs[1]} {Natm_TMs[2]}", file=f)
 
-# Try to find optimal cell parameters for the compound
+# Find optimal cell parameters for the compound
 with open(logfile, 'a') as f:
     print(f"Searching for optimal lattice constant...", file=f)
 nconfig             = 100
