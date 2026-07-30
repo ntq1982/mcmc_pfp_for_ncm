@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 import pfp_api_client
 from pfp_api_client.pfp.calculators.ase_calculator import ASECalculator
 from pfp_api_client.pfp.estimator import Estimator, EstimatorCalcMode, EstimatorMethodType
-from ase.io import read, write
+from ase.io import read
 from ase.neighborlist import NeighborList, NewPrimitiveNeighborList
 
 # HELPER FUNCTION: Calculate 1NN bond fraction
