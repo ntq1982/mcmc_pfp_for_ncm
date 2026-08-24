@@ -7,5 +7,8 @@ Requirements:
 
 DOI:10.5281/zenodo.21413965
 
+Citation
+Tien Quang Nguyen, Nobuyuki Zettsu, Michihisa Koyama; Entropy-Driven Cation Ordering and Redox Behavior in Layered NCM Oxides Revealed by Multi-Canonical Monte Carlo Simulations and Neural Network Potentials. J. Mater. Chem. A 2026; https://doi.org/10.1039/D6TA04623A
+
 ---
-Last update: Aug 03, 2026
+Last update: Aug 25, 2026
